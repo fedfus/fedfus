@@ -57,10 +57,7 @@ Software Engineer | Tech Lead
             width="36" height="36" alt="MacOS" /></a><a href="https://www.raspberrypi.org/" target="_blank"
         rel="noreferrer"><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
-            width="36" height="36" alt="Raspberry Pi" /></a><a href="https://aws.amazon.com/" target="_blank"
-        rel="noreferrer"><img
-            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg"
-            width="36" height="36" alt="AWS" /></a>
+            width="36" height="36" alt="Raspberry Pi" /></a>
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img
             src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" width="36"
             height="36" alt="Kubernetes" /></a>
